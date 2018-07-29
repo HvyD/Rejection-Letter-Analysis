@@ -1,4 +1,4 @@
-   # Rejection-Letter-Analysis
+   <center># Rejection-Letter-Analysis</center>
    
    ![title](images/dfwordcloud.png)
 
